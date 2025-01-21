@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A  script that:
+""" A  script that:
 - takes in a URL and an email address
 - sends a POST request to the passed URL with the email as a parameter
 - displays the body of the response.

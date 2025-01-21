@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-requests model
-"""
+""" requests model """
 
 if __name__ == '__main__':
     import requests
